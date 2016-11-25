@@ -5,8 +5,9 @@ steps:
     type: build
     description: spring maven project
     image-name: ncodefresh/docker-spring-boot-1
-    dockerfile: Dockerfile
+    dockerfile: Dockerfile1
     tag: latest
+
 
 
 #  push-to-dockerhub:
